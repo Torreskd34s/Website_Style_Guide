@@ -1,0 +1,65 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: raleway;
+    margin: 0 10%;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container{
+    width: 100%;
+}
+
+.color-swatches{
+    display: inline-block;
+    text-align: center;
+    width:max-content;
+    margin: 20px auto;
+    height: 100px;
+    vertical-align: top;
+    
+    
+}
+
+
+ .alabaster{
+    background-color: #D8E2DC;
+    
+ }   
+
+ .champagne-pink{
+    background-color: #ffe5d9;
+   
+ }   
+
+ .pink{
+    background-color: #ffe5d9;
+    
+ }   
+ 
+ .mountbatten-pink{
+    background-color: #9D8189;
+    
+ }   
+
+
+/* fonts */
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.raleway{
+    font-family: 'Raleway', sans-serif;
+}
